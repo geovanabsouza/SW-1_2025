@@ -1,0 +1,63 @@
+.container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+    height: 100vh; 
+    text-align: center; 
+}
+
+form {
+    width: 400px; 
+    min-height: 500px; 
+    padding: 20px; 
+    background: none; 
+    border-radius: 10px; 
+    box-shadow: none;
+}
+
+.bloquinho{
+    background-color: aquamarine; 
+    box-shadow: none;
+}
+
+.h1pa{
+    width: 100%;
+    font-size: medium;
+    padding: 5%;
+}
+
+.signin{
+    background-color: aquamarine; 
+    box-shadow: none;
+    width: 20%;
+    margin-left: 50%;
+    margin-right: 100%;
+    margin-top: 5%;
+}
+
+.form-labe{
+    text-align: left;
+    margin-left: 50%;
+}
+
+.esqueceu{
+    margin-left: 50%;
+}
+
+.pregistro{
+    margin-left: 100%;
+}
+/*
+i, a{
+    color: blue;
+}
+
+.form-check-input:checked {
+    background-color: #20c997;
+    border-color: #20c997;
+}
+
+.btncolor{
+    background-color: #20c997;
+    color: white;
+}*/
